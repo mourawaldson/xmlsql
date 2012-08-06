@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<sqlserver_server>WINMAC</sqlserver_server>
+	<sqlserver_database>database_name</sqlserver_database>
+	<sqlserver_windows_authentication>yes</sqlserver_windows_authentication>
+	<sqlserver_user></sqlserver_user>
+	<sqlserver_password></sqlserver_password>
+	<firebird_filename>C:\Users\user\Documents\Desktop\XML.FDB</firebird_filename>
+	<firebird_user>SYSDBA</firebird_user>
+	<firebird_password>masterkey</firebird_password>
+	<txt_filename>C:\Users\user\Documents\Desktop\XML.txt</txt_filename>
+	<exec_hora>22:55:00</exec_hora>
+</config>

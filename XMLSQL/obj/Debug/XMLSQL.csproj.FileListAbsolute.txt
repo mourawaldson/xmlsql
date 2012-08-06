@@ -1,0 +1,16 @@
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\bin\Debug\XMLSQL.exe
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\bin\Debug\XMLSQL.pdb
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.XMLSQL.resources
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.Properties.Resources.resources
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.csproj.GenerateResource.Cache
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.exe
+C:\Documents and Settings\Waldson\Meus documentos\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.pdb
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.exe
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.pdb
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\bin\Debug\XMLSQL.exe
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\bin\Debug\XMLSQL.pdb
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.XMLSQL.resources
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.Properties.Resources.resources
+C:\Users\Miqueias\Documents\Visual Studio 2008\Projects\XMLSQL\XMLSQL\obj\Debug\XMLSQL.csproj.GenerateResource.Cache
